@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">shop</string>
+    <string name="create_account">Create new account</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login_here">Login Here</string>
+    <string name="login">Login</string>
+    <string name="new_user_register_here">New User? Register Here</string>
+    <string name="language">Language</string>
+    <string name="change_title">Change language</string>
+    <string name="complete_purchase">Complete purchase</string>
+</resources>

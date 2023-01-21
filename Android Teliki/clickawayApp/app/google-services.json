@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347707881148",
+    "project_id": "shop-addab",
+    "storage_bucket": "shop-addab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347707881148:android:72482425f91ac40008c2b9",
+        "android_client_info": {
+          "package_name": "com.example.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347707881148-mrpnbru1h7espiolguo3vli7l3c48f47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJvEGB5egRjRsgWIcjFzT8Rmn6k5R7EdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347707881148-mrpnbru1h7espiolguo3vli7l3c48f47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">shop</string>
+    <string name="create_account">Φτιάξε νέο λογαριασμό</string>
+    <string name="password">Κωδικός</string>
+    <string name="register">Εγγραφή</string>
+    <string name="login_here">Συνδέσου εδώ</string>
+    <string name="login">Σύνδεση</string>
+    <string name="new_user_register_here">Νέος χρήστης; Εγγράψου εδώ</string>
+    <string name="language">Γλώσσα</string>
+    <string name="change_title">Άλλαξε γλώσσα</string>
+    <string name="complete_purchase">Ολοκλήρωσε την αγορά</string>
+</resources>
